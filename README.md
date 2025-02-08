@@ -112,6 +112,9 @@ Feel free to join our **[Discord server](https://discord.gg/8cHZ6NVwxd)**
 ### **Slovenian initiatives** 🇸🇮 : 
 * **[SloBERTa](https://huggingface.co/EMBEDDIA/sloberta)** - Contact:[info@embeddia.eu](mailto:info@embeddia.eu)
 
+### **Macedonian Initiatives** 🇲🇰 :  
+* **[AI Now](https://github.com/AI-now-mk/MK-LLM)** - Contact: [contact@ainow.mk](mailto:contact@ainow.mk)
+
 ### **Spanish initiatives** 🇪🇸 : 
 * **[Projecte Aina : Aguila Alpaca](https://huggingface.co/projecte-aina)** - Discord: <https://discord.gg/projecte-aina> - Contact:[aina@bsc.es](mailto:aina@bsc.es)
 * **[BSC – Barcelona supercomputing Center](https://www.bsc.es/es/join-us/job-opportunities/9024csairre1)** - Contact:[info@bsc.es](mailto:info@bsc.es)
